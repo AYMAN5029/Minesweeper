@@ -4,6 +4,9 @@ A modern, responsive implementation of the classic Minesweeper game built with R
 
 ![Minesweeper Game](https://i.imgur.com/4zoaONN.png)
 
+## Demo
+https://minesweeper-app-deploy.netlify.app/ 
+
 ## Features
 
 - 🎮 Classic Minesweeper gameplay mechanics
