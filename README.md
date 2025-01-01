@@ -2,7 +2,7 @@
 
 A modern, responsive implementation of the classic Minesweeper game built with React, TypeScript, and Tailwind CSS. Try it out at [https://ayman5029.github.io/Minesweeper/](https://ayman5029.github.io/Minesweeper/)
 
-![Minesweeper Game](https://images.unsplash.com/photo-1614680376593-902f74cf0d41?auto=format&fit=crop&w=1200&q=80)
+![Minesweeper Game](https://i.imgur.com/4zoaONN.png)
 
 ## Features
 
@@ -34,7 +34,7 @@ A modern, responsive implementation of the classic Minesweeper game built with R
 
 ## Local Development
 
-\`\`\`bash
+```bash
 # Clone the repository
 git clone https://github.com/AYMAN5029/Minesweeper.git
 
@@ -52,11 +52,11 @@ npm run build
 
 # Deploy to GitHub Pages
 npm run deploy
-\`\`\`
+```
 
 ## Project Structure
 
-\`\`\`
+```
 src/
 ├── components/          # React components
 │   ├── Cell.tsx        # Individual cell component
@@ -65,21 +65,18 @@ src/
 │   └── GameStatus.tsx  # Win/lose status display
 ├── constants/          # Game configuration
 ├── hooks/              # Custom React hooks
-├── types/             # TypeScript type definitions
-└── utils/             # Game logic utilities
-\`\`\`
+├── types/              # TypeScript type definitions
+└── utils/              # Game logic utilities
+```
 
 ## Contributing
 
 1. Fork the repository
-2. Create your feature branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the branch (\`git push origin feature/AmazingFeature\`)
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -87,3 +84,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - React team for the amazing framework
 - Tailwind CSS team for the utility-first CSS framework
 - Lucide for the beautiful icons
+
